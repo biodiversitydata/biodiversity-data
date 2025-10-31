@@ -1,0 +1,243 @@
+## Defining biodiversity data
+
+:::: {.columns}
+
+::: {.column width=45%}
+> **Artifacts and symbols** collected, stored, and disseminated in order to document the constituent elements of life, extant or extinct, at **any scale of time and space**.
+
+<br />
+
+> These **elements are biological** and encompass anything that **contributes to the structure and function of life at any scale**, from the microscopic to the level of the planet, and to the **continuation of life, that is, its ability to persist and evolve over time**.
+
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+![](images/garnier-tee.png)
+:::
+
+::::
+
+
+::: {.small}
+**Source:** Garnier E _et al._ (2025) <https://doi.org/10.1016/j.tree.2025.06.004>
+:::
+
+
+
+## Data, datasets, databases and co
+
+
+:::: {.columns}
+
+::: {.column width=45%}
+![](images/data-circles.png){width=80%}
+
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+
+<br/>
+<br/>
+<br/>
+
+**Legend:** (a) Data and metadata make up (b) datasets. Multiple datasets in one location form a (c) database. (d) Aggregators compile data from many databases and (e) repackagers transform data in a way that makes it more accessible for all audiences (i.e. lay and professional). (f) External users (e.g. scientists, industries, government agencies etc.) access raw data by (g) going through any or all of these data sharing portals.
+
+:::
+
+::::
+
+<br />
+
+::: {.small}
+**Source:** Blair J _et al._ (2020) <https://doi.org/10.3897/BDJ.8.e32765>
+:::
+
+
+## Questions to ask
+
+:::: {.columns}
+
+::: {.column width=45%}
+- What is my research question?
+- What do I need?
+- Spatial extent and resolution
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+- Temporal extent and resolution
+- Taxonomic coverage
+- What confidence do I have in the data?
+- ...
+:::
+
+::::
+
+<br />
+
+![](images/image-pndb.png){width=90% fig-align="center"}
+
+
+
+## Overview
+
+:::: {.columns}
+
+::: {.column width=33%}
+**GBIF** &nbsp;[{{< fa globe >}}](https://gbif.org/)
+
+- Checklist & occurrence data
+- Worldwide
+- All taxa (marine & terrestrial)
+:::
+
+::: {.column width=33%}
+**IUCN Redlist** &nbsp;[{{< fa globe >}}](https://www.iucnredlist.org/)
+
+- Species information
+- Conservation status
+- Species range map
+:::
+
+::: {.column width=33%}
+**OBIS** &nbsp;[{{< fa globe >}}](https://obis.org/)
+
+- Occurrence, abundance data
+- Cover percentage & biomass
+- Habitat, genetic, etc.
+:::
+
+::::
+
+<br />
+
+
+:::: {.columns}
+
+::: {.column width=33%}
+**BOLD** &nbsp;[{{< fa globe >}}](https://boldsystems.org/)
+
+- DNA sequences
+- Link to specimens (attributes, taxonomy, collection/location, images)
+:::
+
+::: {.column width=33%}
+**GenBank (NCBI)** &nbsp;[{{< fa globe >}}](https://www.ncbi.nlm.nih.gov/genbank/)
+
+- Genetic sequences
+:::
+
+::: {.column width=33%}
+**MoveBank** &nbsp;[{{< fa globe >}}](https://datarepository.movebank.org)
+
+- Individual tracking locations
+- Worldwide
+- All taxa
+:::
+
+::::
+
+<br />
+
+
+:::: {.columns}
+
+::: {.column width=33%}
+**TRY** &nbsp;[{{< fa globe >}}](https://www.try-db.org/TryWeb/Home.php)
+
+- Trait plant
+- Informations by traits, species, datasets, regions
+:::
+
+::: {.column width=33%}
+**GloBI** &nbsp;[{{< fa globe >}}](https://www.globalbioticinteractions.org/)
+
+- Interaction data, including predator-prey, pollinator-plant, pathogen-host, parasite-host
+:::
+
+::: {.column width=33%}
+**Map of Life** &nbsp;[{{< fa globe >}}](https://mol.org/)
+
+- Species profile
+- Regions, provinces, protected areas
+- Biodiversity trends and patterns
+:::
+
+::::
+
+
+## Biodiversity databases
+
+:::: {.columns}
+
+::: {.column width=45%}
+> Data repositories [...] and databases [...] are the basis for progress but are not representative in their taxonomic and geographical coverage of the Earth’s biodiversity.
+
+::: {.small}
+Gonzalez A _et al._ (2024) <https://doi.org/10.1038/s41559-023-02171-0>
+:::
+
+<br />
+
+> Our review showed that each biodiversity database holds unique scientific value because they cover different spatial extents, taxonomic groups, and record types.
+
+::: {.small}
+Feng X _et al._ (2022) <https://doi.org/10.1111/geb.13497>
+:::
+
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+![**Source:** Feng X _et al._ (2022) <https://doi.org/10.1111/geb.13497>](images/feng-2022.jpg){width=90%}
+:::
+
+::::
+
+
+## Biodiversity databases
+
+But there are links between biodiversity databases and/or biodiversity data aggregators, thanks to FAIR process (data & metadata standards, controlled vocabularies, etc.)
+
+
+<br />
+
+:::: {.columns}
+
+::: {.column width=45%}
+![**Source:** Norvez O _et al._ (2023) <https://mnhn.hal.science/mnhn-04296424v1>](images/norvez-2023.png){width=100%}
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+![**Source:** Feng X _et al._ (2022) <https://doi.org/10.1111/geb.13497>](images/feng-2022-2.jpg){width=100%}
+:::
+
+::::
+
+{{< fa circle-right >}} &nbsp;**Work in progress, stay tuned!**
+
+
+
+# Bonus
+
+
+## Bonus
+
+Overview of biodiversity databases through the **Essential Biodiversity Variables** to be completed
+
+<br />
+
+![](images/bonus-ebv.png){width=90%}

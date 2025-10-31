@@ -1,21 +1,12 @@
-<!-- Delete the chunk from here... -->
-
-> [!IMPORTANT]
-> Please visit our [**Wiki**](https://github.com/biodiversitydata/quarto-template/wiki) to learn more about this Template.
-
-<!-- ... to here -->
-
-
-
 <!-- Logo & Title -->
 
 <h1 align="center">
   <br>
   <img src="images/readme/logo-readme.png" alt="Logo" width="200">
   <br>
-  Quarto template
+  Biodiversity databases
   <br>
-  HTML presentation w/ RevealJS
+  Most frequently used databases in biodiversity research
   <br>
 </h1>
 
@@ -24,7 +15,7 @@
 
 <br>
 <p align="center">
-  <a href="https://biodiversitydata.github.io/quarto-template" target="_blank"><b>View presentation</b></a>
+  <a href="https://biodiversitydata.github.io/biodiversity-data" target="_blank"><b>View presentation</b></a>
 </p>
 <br>
 
@@ -46,13 +37,13 @@
   <br/>
   
   <!-- Quarto render -->
-  <a href="https://github.com/biodiversitydata/quarto-template/actions/workflows/quarto-render.yml">
-    <img src="https://github.com/biodiversitydata/quarto-template/actions/workflows/quarto-render.yml/badge.svg" alt="GHA render">
+  <a href="https://github.com/biodiversitydata/biodiversity-data/actions/workflows/quarto-render.yml">
+    <img src="https://github.com/biodiversitydata/biodiversity-data/actions/workflows/quarto-render.yml/badge.svg" alt="GHA render">
   </a>
   
   <!-- GitHub deployment -->
-  <a href="https://github.com/biodiversitydata/quarto-template/actions/workflows/pages/pages-build-deployment">
-    <img src="https://github.com/biodiversitydata/quarto-template/actions/workflows/pages/pages-build-deployment/badge.svg" alt="GHA deploy">
+  <a href="https://github.com/biodiversitydata/biodiversity-data/actions/workflows/pages/pages-build-deployment">
+    <img src="https://github.com/biodiversitydata/biodiversity-data/actions/workflows/pages/pages-build-deployment/badge.svg" alt="GHA deploy">
   </a>
 </p>
 
@@ -72,7 +63,7 @@
 
 ## Overview
 
-This repository contains files used to generate the online presentation [Quarto template](https://biodiversitydata.github.io/quarto-template) based on [Quarto](https://quarto.org/) and the [RevealJS](https://quarto.org/docs/presentations/revealjs/) framework.
+This repository contains files used to generate the online presentation [Biodiversity databases](https://biodiversitydata.github.io/biodiversity-data) based on [Quarto](https://quarto.org/) and the [RevealJS](https://quarto.org/docs/presentations/revealjs/) framework.
 
 
 ## Usage
@@ -91,14 +82,14 @@ To understand the file organisation of this repository, please read this [Wiki](
 
 ## Citation
 
-Casajus N (2024) _A Quarto template for HTML presentation with RevealJS framework_. Online presentation available at <https://github.com/biodiversitydata/quarto-template/>.
+Norvez O (2025) Biodiversity data: Most frequently used databases in biodiversity research. Online presentation available at <https://github.com/biodiversitydata/biodiversity-data/>.
 
 
 ## Contributing
 
-All types of contributions are encouraged and valued. For more information, check out our [Contributor Guidelines](https://github.com/biodiversitydata/quarto-template/blob/main/CONTRIBUTING.md).
+All types of contributions are encouraged and valued. For more information, check out our [Contributor Guidelines](https://github.com/biodiversitydata/biodiversity-data/blob/main/CONTRIBUTING.md).
 
-Please note that the `quarto-template` project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
+Please note that the `biodiversity-data` project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
 
 
 ## Acknowledgments
