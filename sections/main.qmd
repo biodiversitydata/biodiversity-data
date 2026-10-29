@@ -21,32 +21,37 @@
 ::::
 
 
-::: {.small}
-**Source:** Garnier E _et al._ (2025) <https://doi.org/10.1016/j.tree.2025.06.004>
+::: {.citation}
+**Source:** [Garnier _et al._ (2025)](https://doi.org/10.1016/j.tree.2025.06.004)
 :::
 
 
 
 ## Data, datasets, databases and co
 
+<br>
 
 :::: {.columns}
 
 ::: {.column width=45%}
-![](images/data-circles.png){width=80%}
-
+![](images/data-circles3.png){width=100%}
 :::
 
-::: {.column width=10%}
+::: {.column width=5%}
 :::
 
-::: {.column width=45%}
+::: {.column width=50%}
 
-<br/>
-<br/>
-<br/>
+<br />
 
-**Legend:** (a) Data and metadata make up (b) datasets. Multiple datasets in one location form a (c) database. (d) Aggregators compile data from many databases and (e) repackagers transform data in a way that makes it more accessible for all audiences (i.e. lay and professional). (f) External users (e.g. scientists, industries, government agencies etc.) access raw data by (g) going through any or all of these data sharing portals.
+
+- **(a)** **Data** and **metadata** make up **(b)** **datasets**. 
+- Multiple datasets in one location form a **(c)** **database**. 
+- **(d)** **Aggregators** compile data from many databases. <br/><br/><br/>
+
+
+- **Repackagers** transform data in a way that makes it more accessible for all audiences.
+- **External users** (e.g. scientists, industries, government agencies etc.) access raw data by going through any or all of these data sharing portals.
 
 :::
 
@@ -54,10 +59,14 @@
 
 <br />
 
-::: {.small}
-**Source:** Blair J _et al._ (2020) <https://doi.org/10.3897/BDJ.8.e32765>
+::: {.citation}
+**Source:** [Blair _et al._ (2020)](https://doi.org/10.3897/BDJ.8.e32765)
 :::
 
+
+## Flux and stocks
+
+![](images/image-Flux_dispositifs_SI.png){width=80% fig-align='center'}
 
 ## Questions to ask
 
@@ -66,17 +75,16 @@
 ::: {.column width=45%}
 - What is my research question?
 - What do I need?
-- Spatial extent and resolution
+- Spatial extent and resolution?
 :::
 
 ::: {.column width=10%}
 :::
 
 ::: {.column width=45%}
-- Temporal extent and resolution
-- Taxonomic coverage
+- Temporal extent and resolution?
+- Taxonomic coverage?
 - What confidence do I have in the data?
-- ...
 :::
 
 ::::
@@ -86,8 +94,57 @@
 ![](images/image-pndb.png){width=90% fig-align="center"}
 
 
+# Data repositories
 
-## Overview
+## International repositories
+
+<br /><br /><br />
+
+![](images/international-repo.png){width=60% fig-align="center"}
+
+## French repositories
+
+It is recommended to prioritize deposits in trusted **thematic repositories**, 
+followed by **institutional repositories** and, as a last resort, 
+**generic repositories**.
+
+<br>
+
+:::: {.columns}
+
+::: {.column .center width=40%}
+
+![](images/image-selection-entrepot.jpg){width=50%}
+
+[[Ouvrir la science (2024)]{.citation}](https://www.ouvrirlascience.fr/selectionner-un-entrepot-thematique-de-confiance-pour-le-depot-de-donnees-methodologie-et-analyse-de-loffre-existante/)
+:::
+
+::: {.column .center width=10%}
+:::
+
+::: {.column .center width=40%}
+
+![](images/image-logigramme-rdg.jpg){width=42%}
+
+[[Recherche Data Gouv (2024)]{.citation}](https://recherche.data.gouv.fr/fr/page/entrepot-recherche-data-gouv)
+
+:::
+
+::::
+
+
+## French repositories
+
+<br /><br /><br />
+
+![](images/french-repo.png){width=70% fig-align="center"}
+
+
+
+# Biodiversity databases
+
+
+## Some biodiversity databases
 
 :::: {.columns}
 
@@ -179,7 +236,9 @@
 :::: {.columns}
 
 ::: {.column width=45%}
-> Data repositories [...] and databases [...] are the basis for progress but are not representative in their taxonomic and geographical coverage of the Earth’s biodiversity.
+> Data repositories [...] and databases [...] are the basis for progress but 
+> are **not representative** in their taxonomic and geographical coverage 
+> **of the Earth’s biodiversity**.
 
 ::: {.small}
 Gonzalez A _et al._ (2024) <https://doi.org/10.1038/s41559-023-02171-0>
@@ -187,7 +246,9 @@ Gonzalez A _et al._ (2024) <https://doi.org/10.1038/s41559-023-02171-0>
 
 <br />
 
-> Our review showed that each biodiversity database holds unique scientific value because they cover different spatial extents, taxonomic groups, and record types.
+> Our review showed that each biodiversity database holds 
+> **unique scientific value** because they cover different spatial extents, 
+> taxonomic groups, and record types.
 
 ::: {.small}
 Feng X _et al._ (2022) <https://doi.org/10.1111/geb.13497>
@@ -207,37 +268,26 @@ Feng X _et al._ (2022) <https://doi.org/10.1111/geb.13497>
 
 ## Biodiversity databases
 
-But there are links between biodiversity databases and/or biodiversity data aggregators, thanks to FAIR process (data & metadata standards, controlled vocabularies, etc.)
+But there are **links between biodiversity databases** (and biodiversity data aggregators), 
+thanks to FAIR process (data & metadata standards, controlled vocabularies, etc.)
 
-
-<br />
+<br>
 
 :::: {.columns}
-
-::: {.column width=45%}
-![**Source:** Norvez O _et al._ (2023) <https://mnhn.hal.science/mnhn-04296424v1>](images/norvez-2023.png){width=100%}
-:::
 
 ::: {.column width=10%}
 :::
 
-::: {.column width=45%}
-![**Source:** Feng X _et al._ (2022) <https://doi.org/10.1111/geb.13497>](images/feng-2022-2.jpg){width=100%}
+
+
+::: {.column width=80%}
+![**Source:** Feng X _et al._ (2022) <https://doi.org/10.1111/geb.13497>](images/feng-2022-2.jpg){width=70%}
 :::
 
 ::::
 
-{{< fa circle-right >}} &nbsp;**Work in progress, stay tuned!**
+::: {.column width=10%}
+:::
 
 
-
-# Bonus
-
-
-## Bonus
-
-Overview of biodiversity databases through the **Essential Biodiversity Variables** to be completed
-
-<br />
-
-![](images/bonus-ebv.png){width=90%}
+# Thanks
